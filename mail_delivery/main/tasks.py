@@ -27,7 +27,7 @@ def email_distribution_task():
             "name": "Аким",
             "surname": "Дуйшеналиев",
             "birthday": "6.7.1999",
-            "email": "akimbest2012@gmail.com"
+            "email": "akim.duyshenaliev@gmail.com"
         },
         ]
 
